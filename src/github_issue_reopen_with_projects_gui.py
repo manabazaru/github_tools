@@ -10,7 +10,7 @@ import requests
 
 
 # =======================
-# GitHub API ラッパ
+# GitHub API Wrapper
 # =======================
 
 class GitHubAPI:
